@@ -1,9 +1,10 @@
 ### Assalaamu A'laikum!
 ### Hi there 👋
+#### Thanks for visiting my profile.
 #### I am Raqibur Rahman, a student of Computer Science Engineering.
 Currently I am pursuing my last year Bachelor of Science in Computer Science and Engineering at North South University. 
 I am trying to be enthusiastic to secure challenging parts in computer science.
-If you want to talk about programming, coding, data structures, software engineering or anything else, please write to me. I would love to hear it.
+If you want to talk about programming, coding, data structures, software engineering or anything related to these, please write to me. I would love to hear it.
 Thank you!
 
 Skills: Java / Python / ML / JS / HTML / CSS
