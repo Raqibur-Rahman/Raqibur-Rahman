@@ -2,14 +2,14 @@
 ### Hi there 👋
 #### Thanks for visiting my profile.
 #### I am Raqibur Rahman, a student of Computer Science Engineering.
-Currently I am pursuing my last year Bachelor of Science in Computer Science and Engineering at North South University. 
-I am trying to be enthusiastic to secure challenging parts in computer science.
+Currently I am pursuing my last year of my Bachelor of Science in Computer Science and Engineering at North South University. 
+
 If you want to talk about programming, coding, data structures, software engineering or anything related to these, please write to me. I would love to hear it.
 Thank you!
 
-Skills: Java / Python / ML / JS / HTML / CSS
+Skills: Java / C++ / Python / ML / JS / HTML / CSS
 
-- 🔭 I’m currently working on my final year project based on MERN Stack 
+- 🔭 I’m currently working on my final year project based on MERN Stack and in a Deep Learning Project.
 - 🌱 I’m currently learning Python and JS 
 - 📫 How to reach me: raqibur.a@gmail.com 
 
