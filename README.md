@@ -6,7 +6,7 @@ Currently I am pursuing my last year of my Bachelor of Science in Computer Scien
 Skills: JavaScript / React / C# / ASP.NET Core/ Java / C++ / JS / ML / Python / HTML / CSS
 
 - 🔭 I’m currently working on Asp.net Core and React. 
-- 🌱 I’m currently learning C#, ASP.NET, React, and so on. 
+- 🌱 I’m currently learning Next.js, Node.js, React, and so on. 
 - 💬 Ask me about Programming, Problem Solving, Web Development and things related to these. 
 - 📫 How to reach me: raqibur.a@gmail.com 
 
